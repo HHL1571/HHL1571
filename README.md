@@ -144,10 +144,10 @@ $ ./whoami --player
 <div align="center">
 
 <a href="https://github.com/HHL1571">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=HHL1571&show_icons=true&hide_border=true&bg_color=0D1117&title_color=BFF747&icon_color=BFF747&text_color=C9D1D9" alt="stats"/>
+<img height="150" src="https://github-readme-stats-fast.vercel.app/api?username=HHL1571&show_icons=true&hide_border=true&bg_color=0D1117&title_color=BFF747&icon_color=BFF747&text_color=C9D1D9" alt="stats"/>
 </a>
 <a href="https://github.com/HHL1571">
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HHL1571&layout=compact&hide_border=true&bg_color=0D1117&title_color=BFF747&text_color=C9D1D9&langs_count=8" alt="langs"/>
+<img height="150" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HHL1571&layout=compact&hide_border=true&bg_color=0D1117&title_color=BFF747&text_color=C9D1D9&langs_count=8" alt="langs"/>
 </a>
 <a href="https://github.com/HHL1571">
 <img height="150" src="https://streak-stats.demolab.com?user=HHL1571&hide_border=true&background=0D1117&ring=BFF747&fire=BFF747&currStreakLabel=BFF747&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681" alt="streak"/>
