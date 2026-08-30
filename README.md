@@ -159,13 +159,11 @@ $ ./whoami --player
 
 ## 🐍 CONTRIBUTION SNAKE · 吞噬贡献图
 
-<!-- 🐍 贪吃蛇贡献图：需要先启用 .github/workflows/snake.yml（见仓库说明），启用后取消下方注释
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HHL1571/HHL1571/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HHL1571/HHL1571/output/github-contribution-grid-snake.svg"/>
   <img alt="contribution snake" src="https://raw.githubusercontent.com/HHL1571/HHL1571/output/github-contribution-grid-snake.svg"/>
 </picture>
--->
 
 <div align="center">
 
